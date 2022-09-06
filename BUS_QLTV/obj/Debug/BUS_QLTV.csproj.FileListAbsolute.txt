@@ -1,0 +1,11 @@
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\obj\Debug\BUS_QLTV.csproj.CoreCompileInputs.cache
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\bin\Debug\BUS_QLTV.dll
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\bin\Debug\BUS_QLTV.pdb
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\bin\Debug\DAL_QLTV.dll
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\bin\Debug\DTO_QLTV.dll
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\bin\Debug\DAL_QLTV.pdb
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\bin\Debug\DTO_QLTV.pdb
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\obj\Debug\BUS_QLTV.csproj.AssemblyReference.cache
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\obj\Debug\BUS_QLTV.csproj.CopyComplete
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\obj\Debug\BUS_QLTV.dll
+F:\B1_BAI_TAP_LT_Desktop\Hoc_lai\QLTV_3Layer\BUS_QLTV\obj\Debug\BUS_QLTV.pdb
